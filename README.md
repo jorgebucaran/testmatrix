@@ -1,4 +1,4 @@
-# Testmatrix [![npm](https://img.shields.io/npm/v/testmatrix.svg?label=&color=0080FF)](https://github.com/jorgebucaran/testmatrix/releases/latest)
+# Testmatrix [![npm](https://img.shields.io/npm/v/testmatrix.svg?label=&color=005cc5)](https://github.com/jorgebucaran/testmatrix/releases/latest)
 
 Testmatrix is a declarative test runner for JavaScript.
 
